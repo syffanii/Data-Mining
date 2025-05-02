@@ -14,3 +14,6 @@ Tugas Data Mining
 - `scikit-learn`
 - `matplotlib`
 - `seaborn`
+
+## Dataset:
+https://docs.google.com/spreadsheets/d/1GCiz3yH-U3H-3DsQBj5xkPMzxOve-woc/edit?usp=sharing&ouid=115615575328270668947&rtpof=true&sd=true
